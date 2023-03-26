@@ -1,0 +1,1 @@
+enum ScreenEnum { location, compass }
